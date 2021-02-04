@@ -1,4 +1,4 @@
-
+#Basic calculator functions, no main function included
 
 def addition(a, b):
     return a + b
